@@ -1,18 +1,21 @@
 [
       {
         "id": 1,
+        "img": "https://t4.ftcdn.net/jpg/06/68/99/25/360_F_668992507_dNphwYWRjuQKVdY1QNJx7Dap2Pa59EYR.jpg",
         "name": "Fitness First",
         "gymFeatures": ["Cardio Equipment", "Weight Training", "Group Classes", "Sauna"],
         "price": 50.00
       },
       {
         "id": 2,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-H9T49lSAUEvBVY_DDNshWOyAYIGycLTOuPpuUk-d6qZvJZ0Tv8YqZ3ZbGceW554jwo&usqp=CAU",
         "name": "Powerhouse Gym",
         "gymFeatures": ["Strength Training", "Yoga Studio", "Personal Training", "Pool"],
         "price": 55.00
       },
       {
         "id": 3,
+        "img": "https://t4.ftcdn.net/jpg/06/68/99/25/360_F_668992507_dNphwYWRjuQKVdY1QNJx7Dap2Pa59EYR.jpg",
         "name": "Anytime Fitness",
         "gymFeatures": ["24/7 Access", "Circuit Training", "Virtual Classes", "Massage"],
         "price": 45.00
@@ -20,36 +23,42 @@
       {
         "id": 4,
         "name": "Planet Fitness",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-H9T49lSAUEvBVY_DDNshWOyAYIGycLTOuPpuUk-d6qZvJZ0Tv8YqZ3ZbGceW554jwo&usqp=CAU",
         "gymFeatures": ["No Judgement Zone", "Toning Tables", "HydroMassage", "Black Card Spa"],
         "price": 30.00
       },
       {
         "id": 5,
         "name": "Gold's Gym",
+        "img": "https://t4.ftcdn.net/jpg/06/68/99/25/360_F_668992507_dNphwYWRjuQKVdY1QNJx7Dap2Pa59EYR.jpg",
         "gymFeatures": ["Cardio Cinema", "TRX Suspension Training", "Nutrition Counseling", "Steam Room"],
         "price": 60.00
       },
       {
         "id": 6,
         "name": "Snap Fitness",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-H9T49lSAUEvBVY_DDNshWOyAYIGycLTOuPpuUk-d6qZvJZ0Tv8YqZ3ZbGceW554jwo&usqp=CAU",
         "gymFeatures": ["24/7 Access", "Functional Training", "Cycling Studio", "Tanning"],
         "price": 40.00
       },
       {
         "id": 7,
         "name": "LA Fitness",
+        "img": "https://t4.ftcdn.net/jpg/06/68/99/25/360_F_668992507_dNphwYWRjuQKVdY1QNJx7Dap2Pa59EYR.jpg",
         "gymFeatures": ["Swimming Pool", "Basketball Court", "Racquetball", "Kids Klub"],
         "price": 65.00
       },
       {
         "id": 8,
         "name": "24 Hour Fitness",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-H9T49lSAUEvBVY_DDNshWOyAYIGycLTOuPpuUk-d6qZvJZ0Tv8YqZ3ZbGceW554jwo&usqp=CAU",
         "gymFeatures": ["Zumba Classes", "Jacuzzi", "CrossFit Area", "Pilates Studio"],
         "price": 55.00
       },
       {
         "id": 9,
         "name": "GoodLife Fitness",
+        "img": "https://t4.ftcdn.net/jpg/06/68/99/25/360_F_668992507_dNphwYWRjuQKVdY1QNJx7Dap2Pa59EYR.jpg",
         "gymFeatures": ["Fitness Consultation", "Rowing Machines", "Squash Courts", "Hot Yoga"],
         "price": 50.00
       }

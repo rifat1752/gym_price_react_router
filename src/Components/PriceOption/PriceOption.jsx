@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 
 const PriceOption = ({priceOption}) => {
     const {name,img,price,gymFeatures} = priceOption;
-   console.log(gymFeatures)
+
   return (
     <div className='flex justify-center'>
       <div className="card w-72 bg-stone-300 my-5 shadow-xl">
